@@ -1,0 +1,17 @@
+{
+  "name": "faith-trader-market",
+  "owner": { "name": "Bryan Ponnwitz" },
+  "metadata": {
+    "description": "Marketplace for the Faith Trader plugin."
+  },
+  "plugins": [
+    {
+      "name": "faith-trader",
+      "source": "./",
+      "description": "Manage Robinhood stock positions with Wilder's Parabolic SAR driven by one per-symbol setting, faith (0 to 100).",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["trading", "robinhood", "parabolic-sar", "wilder"]
+    }
+  ]
+}

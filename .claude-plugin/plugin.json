@@ -1,0 +1,11 @@
+{
+  "name": "faith-trader",
+  "displayName": "Faith Trader",
+  "description": "Manage Robinhood stock positions with J. Welles Wilder's Parabolic SAR, driven by one per-symbol setting: faith (0 to 100). Advises or places orders through the Robinhood connector; crypto is buy-only.",
+  "version": "1.0.0",
+  "author": { "name": "Bryan Ponnwitz" },
+  "homepage": "https://github.com/ThePonnz/claude-faith-trader",
+  "repository": "https://github.com/ThePonnz/claude-faith-trader",
+  "license": "GPL-3.0",
+  "keywords": ["trading", "robinhood", "parabolic-sar", "wilder", "stocks", "crypto"]
+}
